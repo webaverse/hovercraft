@@ -6,7 +6,7 @@
   "components": [
     {
       "type": "sit",
-      "sitOffset": [0, 1, 0]
+      "sitOffset": [0, 0.6, 0]
     }
   ]
 }
