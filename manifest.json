@@ -11,7 +11,10 @@
       "walkAnimationHoldTime": 1,
       "walkAnimationSpeedFactor": 0.1,
       "speed": 0.02,
-      "damping": 0.99,
+      "damping": 0.99
+    },
+    {
+      "type": "effect",
       "effects": [
         {
           "type": "fire",
@@ -23,8 +26,7 @@
           "position": [1, 2, 0],
           "quaternion": [0, 0, 0, 1]
         }
-      ],
-      "controls": "plane"
+      ]
     }
   ]
 }
