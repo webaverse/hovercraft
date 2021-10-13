@@ -3,7 +3,7 @@
   "start_url": "hovercraft.glb",
   "components": [
     {
-      "key": "sit2",
+      "key": "sit",
       "value": {
         "subtype": "saddle",
         "sitOffset": [0, 0.6, 0],
