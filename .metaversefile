@@ -11,9 +11,9 @@
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
         "speed": 0.02,
-        "damping": 0.85,
+        "damping": 0.001,
         "disableLoop": true,
-        "clampAnimation": true
+        "clampAnimationWhenFinished": true
       }
     },
     {
