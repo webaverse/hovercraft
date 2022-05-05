@@ -1,5 +1,6 @@
 {
   "name": "hovercraft",
+  "description": "hovercraft",
   "start_url": "hovercraft.glb",
   "components": [
     {
