@@ -1,7 +1,7 @@
 {
   "name": "hovercraft",
   "description": "hovercraft",
-  "start_url": "hovercraft.glb",
+  "start_url": "airplane.glb",
   "components": [
     {
       "key": "sit",
